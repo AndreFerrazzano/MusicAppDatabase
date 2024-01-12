@@ -1,2 +1,2 @@
-# MusicAppDatabase
-This is a full implementation from design to the database for a music application.
+# MusicAppDatabase.
+This is a complete implementation, from design to database, for a music application. We designed and implemented both the relational database and the graphical database.  You can find more information in the final essays in the respective folders.
